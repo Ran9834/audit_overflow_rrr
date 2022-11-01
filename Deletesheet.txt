@@ -1,0 +1,10 @@
+Sub Delete()
+Application.DisplayAlerts = False
+ActiveWorkbook.Sheets("Sheet").Cells.Clear
+        
+
+        Application.DisplayAlerts = True
+
+
+
+End Sub
