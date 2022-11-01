@@ -20340,15 +20340,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\KSPL\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Audit_Flow",
       "projectName": "Audit_Flow",
-      "projectPath": "C:\\Users\\Admin\\Documents\\UiPath\\Audit_Flow\\.local",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\UiPath\\Audit_Flow\\.local"
+      "projectPath": "D:\\audit_overflow_rrr\\.local",
+      "packagesPath": "C:\\Users\\KSPL\\.nuget\\packages\\",
+      "outputPath": "D:\\audit_overflow_rrr\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -20379,7 +20379,7 @@
             "version": "[22.7.0-preview, 22.7.0-preview]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Admin\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\KSPL\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
